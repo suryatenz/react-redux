@@ -1,0 +1,7 @@
+Redux: A Complex State Management Tool, with a single store as CDS(Centralized Data Store)
+Reducers: Manages the state and returns the newly updated state
+Actions: Actions have 2 property types: Which is a unique identifier and payload which has data
+Dispatch: IS used to send actions to update the data
+
+
+todoSlice flie importance: Where it helps you to create objects in huge amount and will be responcible to track initial state, And all the reducers will be collected here , Bascialy the starting point.
